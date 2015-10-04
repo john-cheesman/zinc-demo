@@ -1,0 +1,28 @@
+{
+  "name": "zinc-demo",
+  "version": "0.0.0",
+  "description": "Demonstration of the Zinc style library",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/john-cheesman/zinc-demo.git"
+  },
+  "keywords": [
+    "scss",
+    "typography",
+    "css",
+    "css3",
+    "ui"
+  ],
+  "author": "John Cheesman <me@johncheesman.org.uk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/john-cheesman/zinc-demo/issues"
+  },
+  "homepage": "https://github.com/john-cheesman/zinc-demo",
+  "devDependencies": {
+    "del": "^2.0.2",
+    "gulp": "^3.9.0",
+    "gulp-minify-css": "^1.2.1",
+    "gulp-sass": "^2.0.4"
+  }
+}
