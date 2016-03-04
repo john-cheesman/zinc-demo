@@ -23,6 +23,6 @@
     "tests"
   ],
   "dependencies": {
-    "zinc": "~0.0.0"
+    "zinc": null
   }
 }
